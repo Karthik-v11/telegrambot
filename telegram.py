@@ -1,3 +1,6 @@
+import adafruit.io
+import python-telegram-bot==12.8
+
 ADAFRUIT_IO_USERNAME = "_Karthik_"
 ADAFRUIT_IO_KEY = "aio_kBPF12zGl4lYZGGfRVskniHijb72"
 
